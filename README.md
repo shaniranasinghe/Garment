@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Mern_stack**
 
-- 📫 How to reach me **kavindu2002tcc@gmail.com**
-
 - ⚡ Fun fact **KD**
 
 <h3 align="left">Connect with me:</h3>
